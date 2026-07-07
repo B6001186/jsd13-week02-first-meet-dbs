@@ -29,11 +29,14 @@ db.ingredients.insertMany([
 ]);
 
 //Find all ingredients and join with suppliers info
-db.ingredients.aggregate([{$lookup: {
+db.ingredients.aggregate([
+  {$lookup: {
   from: "suppliers",
   localField: "supplier_id",
   foreignField: "_id",
   as: "supplier_info"
-}},{
+}},
+  {
     $unwind: "$supplier_info"
-}]);
+  }
+]);
