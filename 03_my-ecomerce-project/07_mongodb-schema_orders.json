@@ -1,0 +1,14 @@
+{
+    "_id": 1,
+    "updated_at": "2024-06-01T10:00:00Z",
+    "product_id": 
+    [{
+        "_id": 1,
+        "quantity": 2
+    },{
+        "_id": 2,
+        "quantity": 1
+    }],
+    "user_id": 1,
+    "status_id": 1
+}

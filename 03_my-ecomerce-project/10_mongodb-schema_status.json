@@ -1,0 +1,22 @@
+[{
+    "_id": 1,
+    "status_name": "pending_payment",
+    "description": "รอการชำระเงิน"
+},{
+    "_id": 2,
+    "status_name": "paid",
+    "description": "ชำระเงินแล้ว"
+},
+{
+    "_id": 3,
+    "status_name": "preparing_shipment",
+    "description": "เตรียมจัดส่ง"
+},{
+    "_id": 4,
+    "status_name": "shipped",
+    "description": "จัดส่งแล้ว"
+},{
+    "_id": 5,
+    "status_name": "delivered",
+    "description": "ได้รับสินค้าแล้ว"
+}]

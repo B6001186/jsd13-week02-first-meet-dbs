@@ -1,0 +1,8 @@
+{
+    "_id": 1,
+    "order_id": 1, 
+    "method": "QR_PromptPay",
+    "amount_paid": 1097,
+    "slip_url": "https://...",
+    "updated_at": "2026-07-09T14:05:00Z"
+}

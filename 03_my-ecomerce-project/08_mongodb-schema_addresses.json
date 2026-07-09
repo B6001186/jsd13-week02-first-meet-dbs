@@ -1,0 +1,17 @@
+[{
+        "_id": 1,
+        "details": "123/45 หมู่ 1",
+        "subdistrict": "บางบัวทอง",
+        "district": "บางบัวทอง",
+        "province": "นนทบุรี",
+        "zip_code": "11110",
+        "is_default": true
+},{
+        "_id": 2,
+        "details": "456/78 หมู่ 2",
+        "subdistrict": "บางบัวทอง",
+        "district": "บางบัวทอง",
+        "province": "นนทบุรี",
+        "zip_code": "11110",
+        "is_default": false
+}]
