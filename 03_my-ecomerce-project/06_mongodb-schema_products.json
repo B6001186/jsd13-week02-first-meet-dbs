@@ -1,8 +1,16 @@
-{
+[{
     "product_id": 1,
     "product_name": "Pink Person",
     "caption": "pink pink pink",
     "price": 349,
     "inventory": 10,
     "created_at": "2024-06-01T10:00:00Z"
-}
+},
+{
+    "product_id": 2,
+    "product_name": "Blue Person",
+    "caption": "blue blue blue",
+    "price": 399,
+    "inventory": 5,
+    "created_at": "2024-06-01T10:00:00Z"
+}]
