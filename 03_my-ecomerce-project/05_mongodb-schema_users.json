@@ -1,0 +1,15 @@
+{
+    "user_id": 1,
+    "name": "atcharaporn ok",
+    "email": "atcharapornok@gmail.com",
+    "password": "123456789",
+    "tel": "082xxxxxxx",
+    "address": [{
+        "address_id": 1,
+        "address_detail": "123/45 หมู่ 1 ต.บางบัวทอง อ.บางบัวทอง จ.นนทบุรี 11110"
+    },{
+        "address_id": 2,
+        "address_detail": "456/78 หมู่ 2 ต.บางบัวทอง อ.บางบัวทอง จ.นนทบุรี 11110"
+    }],
+    "created_at": "2024-06-01T10:00:00Z"
+}
